@@ -20,7 +20,7 @@ This Jupyter notebook provides a method for detecting outliers in astronomical i
    - Update `rootpath` and `objpath` variables to point to the directory containing your image data.
    - Set the `size` parameter to the appropriate image size, we assume that the image is a square of `size`x`size` pixels.
    - `plot` is a boolean variable that enable or disable the plots
-   - `timestamp` is a boolean variable that enable or disable the print of timestamps
+   - `timeStamp` is a boolean variable that enable or disable the print of timestamps
 
 2. **Outlier Detection**:
    - Run the notebook cell by cell to execute the code.
