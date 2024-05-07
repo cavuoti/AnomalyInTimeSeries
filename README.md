@@ -40,6 +40,6 @@ This Jupyter notebook provides a method for detecting outliers in astronomical i
 
 
 ## Note
-- This notebook assumes the presence of GPU for efficient computation. Adjust the device configuration (`cuda:0` or `cpu`) based on your hardware availability.
+- This notebook assumes the presence of GPU for efficient computation. It setups the device configuration (`cuda:0` or `cpu`) based on your hardware availability, but the execution time can seriously depend on that.
 
 For further details and updates, refer to the paper Cavuoti, De Cicco et al. arxiv:xxx
