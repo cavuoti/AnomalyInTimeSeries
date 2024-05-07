@@ -4,14 +4,14 @@ This Jupyter notebook provides a method for detecting outliers in astronomical i
 
 ## Setup
 - Ensure you have the required libraries installed:
-  - `torchvision`
-  - `torch`
-  - `numpy`
-  - `matplotlib`
-  - `astropy`
-  - `PIL`
-  - `efficientnet_pytorch`
-  - `scikit-learn`
+  - `torchvision` 0.13.1
+  - `torch` 1.12.1
+  - `numpy`  1.23.5
+  - `matplotlib` 3.8.4
+  - `astropy` 5.1
+  - `pillow` 9.0.1
+  - `efficientnet_pytorch` 0.7.1
+  - `scikit-learn` 1.4.1
 
 ## Usage
 1. **Data Preparation**:
